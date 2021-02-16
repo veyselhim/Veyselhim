@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/veyselhim/Veyselhim/blob/main/banner3.png)
+![alt text](https://github.com/veyselhim/Veyselhim/blob/main/veyselhim.png)
 
 
 
@@ -25,7 +25,6 @@ Contact with me via these platforms!
 
 
 
-![Game Process](https://github.com/veyselhim/Veyselhim/blob/main/veysel.gif)
 
 
 
