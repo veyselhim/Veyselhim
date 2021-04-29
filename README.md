@@ -1,5 +1,4 @@
 
-![alt text](https://github.com/veyselhim/Veyselhim/blob/main/veyselhim2.png?raw=true)
 
 
 
