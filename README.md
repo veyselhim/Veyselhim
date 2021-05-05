@@ -22,9 +22,9 @@ Contact with me via these platforms!
 ![Veysel's github stats](https://github-readme-stats.vercel.app/api?username=veyselhim)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/maliyalcin?style=social)](https://github.com/maliyalcin?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/maliyalcin?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=maliyalcin.visitor-badge)](https://GitHub.com/maliyalcin/StrapDown.js/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/veyselhim?style=social)](https://github.com/veyselhim?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/veyselhim?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=veyselhim.visitor-badge)](https://GitHub.com/veyselhim/StrapDown.js/stargazers/)
 
 
 
